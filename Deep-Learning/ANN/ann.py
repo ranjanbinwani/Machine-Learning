@@ -1,3 +1,7 @@
+# Classification problem to predict whether the customer will leave the bank or will stay in the bank using Artifiical Neural Network.
+
+# The bank can use this model to take measures to prevent the customers from leaving the bank.
+
 # Artificial Neural Network
 
 # Installing Theano
